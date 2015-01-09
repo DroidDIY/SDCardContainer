@@ -7,3 +7,5 @@ Files:
 
 SDCardContainer.skp - SD Card Container Sketchup File
 SDCardContainer.stl - SD Card Container STL File
+SDCardContainerLid.skp - SD Card Container Sketchup File
+SDCardContainerLid.stl - SD Card Container STL File
